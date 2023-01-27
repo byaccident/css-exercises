@@ -1,0 +1,14 @@
+/* style.css */
+
+* {
+    top: 100in;
+}
+
+div {
+    color: white;
+    background-color: red;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    
+}
