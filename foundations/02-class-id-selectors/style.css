@@ -1,0 +1,23 @@
+
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+    
+p {
+    background-color: pink;
+    
+}
+
+.three {
+    font-size: large;
+}
+
+#two {
+    font-size: x-large;
+    color: blue;
+    font-weight: bold;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bolder;
+}
